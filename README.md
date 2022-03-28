@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m3nininho
-- Estou iniciando no mundo da programação 
+- Estou iniciando no mundo da programação.
 - Estarei postando meus códigos por aqui para registrar meu crescimento no desenvolvimento. 
 
 <!---
