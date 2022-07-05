@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @m3nininho <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - Estou iniciando no mundo da programação.
-- Estarei postando meus códigos por aqui para registrar meu crescimento no desenvolvimento. 
 
 <div align="center">
   <a href="https://github.com/m3nininho">
