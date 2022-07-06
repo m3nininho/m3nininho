@@ -1,16 +1,45 @@
-- 👋 Hi, I’m @m3nininho <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-- Estou iniciando no mundo da programação.
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm Luiz Menino <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
-<div align="center">
-  <a href="https://github.com/m3nininho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m3nininho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3nininho&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+
+<img align="left"  width="46%"  src="https://github-readme-stats.vercel.app/api?username=m3nininho&show_icons=true&theme=radical " />
+
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3nininho&layout=compact" />
+
+
+#
+
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## <br /> 🙋‍♂️ Connect with me 
+
+
+
+<!-- Badges template - https://github.com/Ileriayo/markdown-badges#social-->
+
+<br />
+
+
+
+
  
-  ##
-  
+  <br />
+  <a  href="mailto:luizmenino22@gmail.com"><img align="left" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br />
+ <a  href="https://www.instagram.com/_meninoo_/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+
+
+
   
