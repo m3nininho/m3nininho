@@ -4,7 +4,7 @@ Hello I'm Luiz Menino <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 </h1>
 
 
-<img align="left"  width="46%" src="https://github-readme-stats.vercel.app/api?username=m3nininho&show_icons=true&theme=radical " />
+
 
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3nininho&layout=compact" />
 
