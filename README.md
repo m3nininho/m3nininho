@@ -16,6 +16,7 @@ Hello I'm Luiz Menino <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gip
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
+<img align="left" src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 
 
 
