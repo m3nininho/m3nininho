@@ -6,7 +6,7 @@ Hello I'm Menininho <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy
 
 
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3nininho&layout=compact " />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=m3nininho" />
 
 
 
